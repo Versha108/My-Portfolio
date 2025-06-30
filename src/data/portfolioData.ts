@@ -1,4 +1,5 @@
 import ecom from "../images/Ecom.png";
+import travel from "../images/travel.png"
 
 export const portfolioData = {
   personal: {
@@ -52,28 +53,28 @@ export const portfolioData = {
     },
     {
       id: 2,
-      title: "SaaS Dashboard Redesign",
-      category: "Web Design",
-      image: "https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop",
-      tools: ["Figma", "Design Systems", "Analytics"],
+      title: "Travel App",
+      category: "Mobile Design",
+      image: travel,
+      tools: ["Figma", "Design Systems", "Prototyping"],
       // overview: "Complete redesign of a complex SaaS dashboard to improve user efficiency and data visualization.",
       // challenge: "The existing dashboard was cluttered with poor information hierarchy, making it difficult for users to find key metrics.",
       // solution: "Created a clean, modular design with customizable widgets, improved data visualization, and better navigation.",
       // results: "50% reduction in user task completion time and 35% increase in daily active users."
-      link: ""
+      link: "https://www.figma.com/proto/M8jh1ac0zVAl1zS2fFzFDg/Travel-APP?page-id=0%3A1&node-id=1-20&p=f&viewport=522%2C414%2C0.69&t=Xf64nfTWIlv7Y0NQ-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A20"
     },
-    {
-      id: 3,
-      title: "Banking App Interface",
-      category: "Fintech",
-      image: "https://images.pexels.com/photos/5849574/pexels-photo-5849574.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop",
-      tools: ["Figma", "Prototyping", "Security Design"],
-      // overview: "Secure and user-friendly banking application interface with focus on accessibility and trust.",
-      // challenge: "Creating a balance between security requirements and user-friendly experience for digital banking.",
-      // solution: "Implemented biometric authentication, clear transaction flows, and accessible design principles.",
-      // results: "25% increase in mobile banking adoption and 99.9% security compliance rating."
-      link: ""
-    }
+    // {
+    //   id: 3,
+    //   title: "Banking App Interface",
+    //   category: "Fintech",
+    //   image: "https://images.pexels.com/photos/5849574/pexels-photo-5849574.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop",
+    //   tools: ["Figma", "Prototyping", "Security Design"],
+    //   // overview: "Secure and user-friendly banking application interface with focus on accessibility and trust.",
+    //   // challenge: "Creating a balance between security requirements and user-friendly experience for digital banking.",
+    //   // solution: "Implemented biometric authentication, clear transaction flows, and accessible design principles.",
+    //   // results: "25% increase in mobile banking adoption and 99.9% security compliance rating."
+    //   link: ""
+    // }
   ],
 
   social: {
