@@ -28,7 +28,7 @@ export const portfolioData = {
       year: "2024",
       title: "UI/UX Designer Intern",
       company: "ShadowFox",
-      description: "Leading design for mobile and web applications, mentoring junior designers, and establishing design systems."
+      description: "During my UI/UX Design internship, I worked on real-world projects, designed wireframes and interactive prototypes, and enhanced user flows to improve overall experience. This experience strengthened my design thinking and sharpened my skills in tools like Figma and Canva."
     },
     {
       year: "2021-2025",
